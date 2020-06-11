@@ -1,0 +1,6 @@
+.vs
+.vscode
+
+# contienen informacion sensible
+NetCoreReactPoC/appsettings.*
+QandA/frontend/frontend/node_modules/
