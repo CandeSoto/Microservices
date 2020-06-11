@@ -1,0 +1,31 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/Usuarios",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/Usuarios",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "SparkFoundation.UsuariosMicroservicio",
+          "Port": 50103
+        }
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Procesos",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/Procesos",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "SparkFoundation.ProcesosMicroservicio",
+          "Port": 50104
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://KW.ApiGateway:50100"
+  }
+}

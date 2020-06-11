@@ -1,0 +1,19 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/Catalogos",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "sparkfoundation.catalogosmicroservicio",
+          "Port": 50109
+        }
+      ],
+      "UpstreamPathTemplate": "/Catalogos",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://KW.ApiGateway:50100"
+  }
+}
