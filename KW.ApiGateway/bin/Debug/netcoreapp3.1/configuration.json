@@ -1,15 +1,15 @@
 {
   "ReRoutes": [
     {
-      "DownstreamPathTemplate": "/api/Catalogos",
+      "DownstreamPathTemplate": "/api/Personas",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "sparkfoundation.catalogosmicroservicio",
+          "Host": "KW.CatalogosMicroservicio",
           "Port": 50109
         }
       ],
-      "UpstreamPathTemplate": "/Catalogos",
+      "UpstreamPathTemplate": "/Personas",
       "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
     }
   ],

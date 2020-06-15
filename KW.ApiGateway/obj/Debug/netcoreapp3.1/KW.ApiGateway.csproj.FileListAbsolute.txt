@@ -2,7 +2,6 @@ C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\bin\Debug\netcorea
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\bin\Debug\netcoreapp3.1\KW.ApiGateway.exe
-C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\obj\Debug\netcoreapp3.1\KW.ApiGateway.csprojAssemblyReference.cache
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\obj\Debug\netcoreapp3.1\KW.ApiGateway.AssemblyInfoInputs.cache
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\obj\Debug\netcoreapp3.1\KW.ApiGateway.AssemblyInfo.cs
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\obj\Debug\netcoreapp3.1\KW.ApiGateway.RazorTargetAssemblyInfo.cache
@@ -31,3 +30,4 @@ C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\obj\Debug\netcorea
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\obj\Debug\netcoreapp3.1\KW.ApiGateway.dll
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\obj\Debug\netcoreapp3.1\KW.ApiGateway.pdb
 C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\obj\Debug\netcoreapp3.1\KW.ApiGateway.genruntimeconfig.cache
+C:\Users\Candelario\source\repos\Microservicios\KW.ApiGateway\bin\Debug\netcoreapp3.1\web.config

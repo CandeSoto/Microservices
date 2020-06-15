@@ -3,12 +3,12 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iis": {
-      "applicationUrl": "http://KW.ApiGateway:50100",
+      "applicationUrl": "http://KW.CatalogosMicroservicio:50109",
       "sslPort": 0
     },
     "iisExpress": {
-      "applicationUrl": "http://localhost:64925",
-      "sslPort": 44303
+      "applicationUrl": "http://localhost:65108",
+      "sslPort": 44378
     }
   },
   "profiles": {
@@ -19,7 +19,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "KW.ApiGateway": {
+    "KW.CatalogosMicroservicio": {
       "commandName": "IIS",
       "launchBrowser": true,
       "environmentVariables": {

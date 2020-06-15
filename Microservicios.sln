@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Microservicios", "04-Mic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KW.ApiGateway", "KW.ApiGateway\KW.ApiGateway.csproj", "{80548AEF-A949-4CCB-91DE-CE9FBAFB8336}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Catalogos", "01-Catalogos", "{D7DA1D11-AB47-40AE-84FC-D932D4C01071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KW.CatalogosMicroservicio", "KW.CatalogosMicroservicio\KW.CatalogosMicroservicio.csproj", "{F8A462E3-D434-4F70-A7E4-F306C300BE32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,18 @@ Global
 		{80548AEF-A949-4CCB-91DE-CE9FBAFB8336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80548AEF-A949-4CCB-91DE-CE9FBAFB8336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80548AEF-A949-4CCB-91DE-CE9FBAFB8336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A462E3-D434-4F70-A7E4-F306C300BE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A462E3-D434-4F70-A7E4-F306C300BE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A462E3-D434-4F70-A7E4-F306C300BE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A462E3-D434-4F70-A7E4-F306C300BE32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{80548AEF-A949-4CCB-91DE-CE9FBAFB8336} = {0728C853-478D-44BD-A26B-B19140BC23AC}
+		{D7DA1D11-AB47-40AE-84FC-D932D4C01071} = {3C4AA47F-77F4-446B-BEA8-92F1BF7414EE}
+		{F8A462E3-D434-4F70-A7E4-F306C300BE32} = {D7DA1D11-AB47-40AE-84FC-D932D4C01071}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CC8842B1-03E4-465B-9E4D-8BB4FC1E2571}
